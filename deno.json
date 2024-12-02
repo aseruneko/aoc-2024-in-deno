@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run --allow-read",
+    "watch": "deno run --allow-read --watch"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
