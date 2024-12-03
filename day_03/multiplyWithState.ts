@@ -4,10 +4,6 @@ Deno.readTextFile('./inputs/day_03_input').then((txt: string) => {
     console.log(mulInstructions.reduce((acc, car) => (acc + car.a * car.b), 0));
 })
 
-function multiple(str: string): number {
-    return (str.match(/[0-9]+/g) ?? []).map((r) => parseInt(r)).reduce((acc, car) => (acc * car), 1)
-}
-
 const instructionRegExp = /(mul\([0-9]+,[0-9]+\))|(do\(\))|(don't\(\))/g
 
 type Instruction = { type: 'DO' } | { type: 'DONT' } | MulInstruction
