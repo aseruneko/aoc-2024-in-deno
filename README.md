@@ -65,3 +65,9 @@ Thanks to such vulnerable implementation, I have done it in short time somehow.
 
 I solved this quite easily. I want Set whose way of verification for duplicate
 is configurable, but I dont know some sort of such thing. (is it true?)
+
+## Day09
+
+Regex is too op pls nerf.
+
+Regex is too op pls nerf.
