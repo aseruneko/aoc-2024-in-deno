@@ -71,3 +71,10 @@ is configurable, but I dont know some sort of such thing. (is it true?)
 Regex is too op pls nerf.
 
 Regex is too op pls nerf.
+
+## Day10
+
+とりあえず全探索したら、Part.2は一瞬で解けてしまった。せっかくなのでvisualizeもしてみた。
+
+I used an exhaustive search without thinking, it results in immediate solvation
+for Part2. That's why I visualized it.
