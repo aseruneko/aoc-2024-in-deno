@@ -78,3 +78,10 @@ Regex is too op pls nerf.
 
 I used an exhaustive search without thinking, it results in immediate solvation
 for Part2. That's why I visualized it.
+
+## Day11
+
+ちょうど、目を離すと石が動くゲームをやっていたので、助かりました。
+
+This is a good puzzle because I was just playing a game including automatically
+moving stone when I don't observe.
