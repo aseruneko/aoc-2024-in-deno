@@ -92,3 +92,9 @@ moving stone when I don't observe.
 
 Counting sides of an area is terribly difficult, so I was almost to tear flowers
 apart. seriously.
+
+## Day13
+
+久しぶりに連立一次方程式を解いた気がします。
+
+I think I solved simultaneous linear equations in a while.
