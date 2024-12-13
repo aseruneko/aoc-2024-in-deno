@@ -85,3 +85,10 @@ for Part2. That's why I visualized it.
 
 This is a good puzzle because I was just playing a game including automatically
 moving stone when I don't observe.
+
+## Day12
+
+辺の数を数えるの、本当に難しいので、花を引きちぎりたくなりました。
+
+Counting sides of an area is terribly difficult, so I was almost to tear flowers
+apart. seriously.
