@@ -98,3 +98,9 @@ apart. seriously.
 久しぶりに連立一次方程式を解いた気がします。
 
 I think I solved simultaneous linear equations in a while.
+
+## Day14
+
+鳩が豆鉄砲を食ったような顔になってしまいました。最高。
+
+I became look like a deer in a headlight. AWESOME.
