@@ -104,3 +104,10 @@ I think I solved simultaneous linear equations in a while.
 鳩が豆鉄砲を食ったような顔になってしまいました。最高。
 
 I became look like a deer in a headlight. AWESOME.
+
+## Day15
+
+Part2は、あまり書いたことがないコードを書く必要があったけど、こういうのを書くのが一番楽しいので、よかった。
+
+I had to write a code which I had never really been written, in Part2, but to
+write such codes is the most intersting for me. Good.
