@@ -118,3 +118,9 @@ write such codes is the most intersting for me. Good.
 
 Could you kindly stop ask the question about two-dimensional array: I am not
 goot at that.
+
+## Day17
+
+なんだかはちゃめちゃに難しくなっている気がします。
+
+It seems to be getting messed up and tough more and more.
