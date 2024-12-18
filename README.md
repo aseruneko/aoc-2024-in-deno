@@ -111,3 +111,10 @@ Part2は、あまり書いたことがないコードを書く必要があった
 
 I had to write a code which I had never really been written, in Part2, but to
 write such codes is the most intersting for me. Good.
+
+## Day16
+
+２次元配列は苦手なので、本当にご勘弁いただきたい。
+
+Could you kindly stop ask the question about two-dimensional array: I am not
+goot at that.
