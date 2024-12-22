@@ -124,3 +124,10 @@ goot at that.
 なんだかはちゃめちゃに難しくなっている気がします。
 
 It seems to be getting messed up and tough more and more.
+
+## Day18
+
+AoCは相当２次元配列が好きなのだなあ、と思いました。流石にもう慣れてきました。
+
+I suppose AoC likes two-dimensional array so much. It was enough for me to
+adapt.
