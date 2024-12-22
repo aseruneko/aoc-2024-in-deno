@@ -131,3 +131,10 @@ AoCは相当２次元配列が好きなのだなあ、と思いました。流�
 
 I suppose AoC likes two-dimensional array so much. It was enough for me to
 adapt.
+
+## Day19
+
+単純な動的計画法だが、問題設定はだいぶ異常だ。この巨大な数を知って、温泉側はいったい何がしたいのか。
+
+This question is a simple DP problem, but this backstory is quite abnormal. When
+the Onsen know this enormous number, I have no idea what they will do.
