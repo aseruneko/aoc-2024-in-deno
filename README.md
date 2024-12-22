@@ -138,3 +138,9 @@ adapt.
 
 This question is a simple DP problem, but this backstory is quite abnormal. When
 the Onsen know this enormous number, I have no idea what they will do.
+
+## Day20
+
+迷路が終わるとまた迷路、迷路、迷路、迷路...
+
+When you finish the maze, another maze come, more maze, maze, maze...
